@@ -1,0 +1,23 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    background-color: grey;
+    background-image: url("https://wallpaperaccess.com/full/471764.jpg");
+     background-repeat: no-repeat;
+     background-size: cover;
+    color: rgb (255,255,255);
+    display: flex ; 
+    flex-direction: column;
+    align-items:center;
+    justify-content:center;
+}
+canvas{
+    /* margin-top :10px; */
+    background-color : white;
+    border-radius: 5px;
+    padding: auto ;
+    
+}
+
+
